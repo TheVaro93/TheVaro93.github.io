@@ -1,2 +1,5 @@
-# TheVaro93.github.io
-Le site ne sert à rien sauf à indexer mes autres sites et tests pour l'instant :]
+# TheVaro93.me
+
+Voici mon portfolio, que je me suis enfin décidé à faire XD !  
+Je vais ici partager mes compétences, et faire un site assez beau visuellement (C'est un peu l'intérêt d'un portfolio mais bon, ça reste très fun) ¯\_(ツ)_/¯  
+Merci d'avoir lu ceci, et n'hésitez pas à y jeter un coup d'oeuil !! (ᵔᴥᵔ)
